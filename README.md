@@ -14,11 +14,11 @@ I help associations, nonprofits, and event-driven organizations grow through hum
 - **H2H (Human-to-Human) Marketing** — my framework for marketing that connects
 
 ### 🛠️ Tools I work in
-**Marketing & Email Automation:** `HubSpot` · `MailChimp` · `dotmailer` · `Drip` · `Salesforce`
-**Channels & Advertising:** `Meta` · `Reddit` · `Google Grants`
-**Project Management & Ops:** `Airtable` · `Asana` · `Monday.com` · `Jira`
-**Design & Creative:** `Adobe Creative Suite` · `Figma` · `Canva`
-**AI:** `Perplexity` · `Microsoft Copilot` · custom AI agents
+- **Marketing & Email Automation:** `HubSpot` · `MailChimp` · `dotmailer` · `Drip` · `Salesforce`
+- **Channels & Advertising:** `Meta` · `Reddit` · `Google Grants`
+- **Project Management & Ops:** `Airtable` · `Asana` · `Monday.com` · `Jira`
+- **Design & Creative:** `Adobe Creative Suite` · `Figma` · `Canva`
+- **AI:** `Perplexity` · `Microsoft Copilot` · custom AI agents
 
 ### 📚 What lives here
 This is where I share the practical side of my work — prompt libraries, marketing frameworks, templates, and small AI experiments. Free to use, steal, and adapt.
