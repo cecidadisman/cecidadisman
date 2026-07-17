@@ -25,6 +25,7 @@ This is where I share the practical side of my work — prompt libraries, market
 
 ### 🤝 Let's connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/cecidadisman)
+- 📖 [Substack](https://cecidadisman.substack.com/)
 - ✉️ Available for fractional and advisory engagements
 
 ---
