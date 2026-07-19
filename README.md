@@ -1,6 +1,6 @@
 # Hi, I'm Ceci Dadisman 👋
 
-**Fractional CMO • Marketing & Communications Strategist • AI-in-Marketing Practitioner**
+**Fractional CMO • Marketing & Communications Leader • AI-in-Marketing Practitioner**
 
 I help associations, nonprofits, and event-driven organizations grow through human-centered marketing, smart operations, and practical AI implementation. 20+ years turning strategy into systems that actually ship.
 
